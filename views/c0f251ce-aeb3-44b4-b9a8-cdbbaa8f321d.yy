@@ -19,7 +19,12 @@
         "a2b8d2bd-7669-476d-a5dd-23f4bd4937de",
         "0c4e8e33-c3db-453a-bf9a-c8e991adf27c",
         "d1c6ef35-35a4-4b5c-aafe-c5bb95c995de",
-        "84a5dc3f-f7b0-45a6-8866-d73a4861fb02"
+        "84a5dc3f-f7b0-45a6-8866-d73a4861fb02",
+        "cf53f7b5-fad3-456a-b933-73796b59777a",
+        "faa88f5f-09e9-4d73-ac14-b4836fd24779",
+        "6c36380c-6806-4764-8306-b824b54d8a92",
+        "8eaaaa34-326a-4dff-8350-fd8d08bac806",
+        "e60c77be-99a8-46b4-9bc2-7e0d5fdeb319"
     ],
     "filterType": "GMSprite",
     "folderName": "Cleaning",

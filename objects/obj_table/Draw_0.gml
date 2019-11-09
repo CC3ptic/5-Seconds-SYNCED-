@@ -10,3 +10,8 @@ if global.patchready = true
 {
 	draw_text(700,895,"Patch is Ready!");
 }
+
+if global.patchready = false
+{
+	draw_text(700,895,"Patch is not Ready!");
+}

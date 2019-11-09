@@ -23,7 +23,9 @@
         "b7490df6-7472-4c4c-b772-55438036cba9",
         "e5fd4567-f9b9-4102-bcce-d8f750c41fa0",
         "98b2a555-4503-435b-8bce-b1beb295f029",
-        "0b45e0e6-2afb-45b8-8a6d-b0696ab01910"
+        "0b45e0e6-2afb-45b8-8a6d-b0696ab01910",
+        "9e6c744d-d6d1-48c8-b4b6-b056c76d44aa",
+        "f93faf70-06c1-4f98-a0d4-8ade8d892aa5"
     ],
     "filterType": "GMObject",
     "folderName": "Cleaning ",
