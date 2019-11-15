@@ -67,3 +67,8 @@ if obj_breath_bar.image_xscale>1
 {
 	obj_breath_bar.image_xscale = 1;
 }
+
+if global.rain=true and !instance_exists(obj_rain_left)
+{
+	instance_create_layer(960,540,"Instances",obj_rain_left)
+}

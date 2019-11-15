@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-if global.shot=10
+if global.shot=2
 {
 	global.can_shoot=false;
 	room_goto(room_result);
@@ -12,3 +12,4 @@ if global.shot=10
 
 
 draw_text(room_width/3,room_height/3,global.score2);
+

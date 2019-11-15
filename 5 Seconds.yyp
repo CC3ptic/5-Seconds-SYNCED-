@@ -775,10 +775,26 @@
             }
         },
         {
+            "Key": "9e760b51-c5c7-4989-bbbc-e55ba0559f46",
+            "Value": {
+                "id": "f74c6717-f94d-4a97-9132-dfc1c65407f7",
+                "resourcePath": "objects\\obj_rain_left\\obj_rain_left.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a2b8d2bd-7669-476d-a5dd-23f4bd4937de",
             "Value": {
                 "id": "cafc0d2d-4bb2-4b23-9be6-7f9ffccff4ee",
                 "resourcePath": "sprites\/spr_cleaning_rod_jag_4b\/spr_cleaning_rod_jag_4b.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a4344851-807e-48c7-81ab-49ee9dfa0071",
+            "Value": {
+                "id": "7ca27736-c3e2-4370-81f0-4e4cb74cc108",
+                "resourcePath": "sprites\\spr_rain_left\\spr_rain_left.yy",
                 "resourceType": "GMSprite"
             }
         },
