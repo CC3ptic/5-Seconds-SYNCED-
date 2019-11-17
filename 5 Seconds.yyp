@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "16369505-56cc-4113-98a0-2d89f3326a96",
+            "Value": {
+                "id": "405ee067-20cf-4515-891d-87b35a6be77c",
+                "resourcePath": "sprites\\spr_wind_flag\\spr_wind_flag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1711e0e1-06b1-4344-99f1-cd3f52b7ef2f",
             "Value": {
                 "id": "9b344cb3-97bd-4515-96bd-52f6c9c3a654",

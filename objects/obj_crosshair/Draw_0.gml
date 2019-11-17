@@ -5,6 +5,6 @@ draw_text(room_width/3,room_height/4,score2);
 draw_self();
 
 
-draw_text(room_width/4,room_height/2,global.x_offset);
-draw_text(room_width/5, room_height/2, global.wind);
+draw_text(205,675,"Windage Setting -" +string(global.x_offset));
+draw_text(205, room_height/2, "Wind " +string(global.wind) + "km/h");
 
