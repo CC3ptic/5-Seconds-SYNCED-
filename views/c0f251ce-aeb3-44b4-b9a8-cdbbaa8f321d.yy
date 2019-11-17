@@ -24,7 +24,9 @@
         "faa88f5f-09e9-4d73-ac14-b4836fd24779",
         "6c36380c-6806-4764-8306-b824b54d8a92",
         "8eaaaa34-326a-4dff-8350-fd8d08bac806",
-        "e60c77be-99a8-46b4-9bc2-7e0d5fdeb319"
+        "e60c77be-99a8-46b4-9bc2-7e0d5fdeb319",
+        "4f7b2335-34ce-4226-99cc-de4f7e6950d2",
+        "a644c064-dae9-43c2-b661-271194edfabd"
     ],
     "filterType": "GMSprite",
     "folderName": "Cleaning",
