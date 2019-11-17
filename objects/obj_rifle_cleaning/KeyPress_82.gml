@@ -46,6 +46,8 @@ if global.cleaningrod = 1
 	global.rodin = false
 	global.patchready = false
 }
+
+
 if global.cleaningrod = 2
 {
 	instance_destroy(obj_jag);
