@@ -2,7 +2,7 @@
     "id": "c12fe9b3-8e0f-45df-8126-0da34cf27ece",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_select_malafar",
+    "name": "obj_select_cleaning",
     "eventList": [
         {
             "id": "591cc447-a98a-4ae6-b3bb-418fc8ceec6a",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "df07feb6-e854-4b3a-826b-3566e4dff574",
+    "spriteId": "6629ac20-3230-4255-914e-881f86d24d11",
     "visible": true
 }
