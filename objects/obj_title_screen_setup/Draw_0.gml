@@ -1,0 +1,1 @@
+draw_sprite(spr_mainmenu_shield,1,960,320);

@@ -5,7 +5,27 @@
     "name": "obj_main_menu_button",
     "eventList": [
         {
-            "id": "a95ab005-ddd6-40ff-bd50-17d56c822cb3",
+            "id": "f300df77-611d-463e-8e8b-65bbe6ab255a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "8f1fa6fd-6472-458a-b77a-a9c41b793e9b"
+        },
+        {
+            "id": "983bbbf8-f847-4391-8e3b-e14d32955b52",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 7,
+            "eventtype": 6,
+            "m_owner": "8f1fa6fd-6472-458a-b77a-a9c41b793e9b"
+        },
+        {
+            "id": "e189f3ed-bf0a-4af2-8eb4-ec14cdbdc48a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

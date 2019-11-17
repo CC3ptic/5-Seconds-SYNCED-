@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "0e60488b-a4a7-4804-8cfe-c5d5e5134e61",
+            "Value": {
+                "id": "01108085-5c5d-46d0-93e9-51ff2606916c",
+                "resourcePath": "objects\\obj_title_screen_setup\\obj_title_screen_setup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0faeba8d-7ebd-4fca-af74-411002b7ff12",
             "Value": {
                 "id": "222d0aa5-e327-474e-b0b6-7563dc9044e1",
@@ -431,14 +439,6 @@
             }
         },
         {
-            "Key": "4d9478a9-a8a1-45f3-b612-cf27c2cd6c55",
-            "Value": {
-                "id": "16389eb2-286b-4e3b-8696-eaf80e77cf8c",
-                "resourcePath": "objects\/obj_loading\/obj_loading.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "4e8163e4-47df-4368-8165-ac0f21fd8c0f",
             "Value": {
                 "id": "961267b7-eced-4a9a-8488-1a4556966b67",
@@ -652,6 +652,14 @@
                 "id": "03cfbadc-c2a0-43af-b938-334035c6d4ba",
                 "resourcePath": "sprites\/spr_number_10\/spr_number_10.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "81e213c8-6d9c-445d-9e4b-23ce41a6ae77",
+            "Value": {
+                "id": "f1550954-2b99-4770-a5f7-00b4ce41ed2b",
+                "resourcePath": "objects\\obj_loading\\obj_loading.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1044,6 +1052,14 @@
                 "id": "0223a2c1-b17d-4ab6-a501-c6a1825dd232",
                 "resourcePath": "sprites\\spr_mainmenu_shooter\\spr_mainmenu_shooter.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ce709d7a-2546-4bd9-abf0-85e9f4ec2802",
+            "Value": {
+                "id": "8dd0684b-e1ed-41c8-ae92-14212896dfad",
+                "resourcePath": "objects\\obj_title_screen_fade1\\obj_title_screen_fade1.yy",
+                "resourceType": "GMObject"
             }
         },
         {

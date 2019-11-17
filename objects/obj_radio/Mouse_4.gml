@@ -18,3 +18,21 @@ if radio_playing = 3
 	audio_play_sound(snd_cleaning_music_3,4,9);
 }
 
+if radio_playing = 4
+{
+	audio_stop_sound(snd_cleaning_music_3);
+	audio_play_sound(snd_cleaning_music_4,5,9);
+}
+
+if radio_playing = 5
+{
+	audio_stop_sound(snd_cleaning_music_4);
+	audio_play_sound(snd_cleaning_music_5,6,9);
+}
+
+if radio_playing > 5
+{
+	audio_stop_sound(snd_cleaning_music_5);
+	radio_playing = 0
+	sprite_index = spr_radio
+}
