@@ -5,9 +5,11 @@ draw_set_halign(fa_middle)
 draw_text(room_width/2,room_height/2,global.score2);
 draw_text(room_width/2+10,room_height/2,global.centre);
 draw_text(room_width/3,room_height/2,global.score2/global.shot);
+draw_set_font(fnt_stats);
 
 if global.score2 > 85 
 {
+
 	draw_sprite(spr_star,1,room_width/2,room_height/3)
 	draw_sprite(spr_star,1,room_width/2+150,room_height/3)
 	draw_sprite(spr_star,1,room_width/2-150,room_height/3)

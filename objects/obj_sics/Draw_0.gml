@@ -1,2 +1,4 @@
 draw_self();
-draw_text(x,y-60,"~ Now Entering ~");
+draw_set_colour(c_orange);
+draw_set_font(fnt_enterSICS);
+draw_text(820,60,"~ Now Entering ~");

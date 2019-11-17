@@ -6,6 +6,7 @@ a = clamp(a + (fade * 0.05),0,1);
 
 if (a == 1)
 {
+	audio_stop_sound(snd_titlescreen);
 	room_goto_next();
 	fade = -1;
 }
