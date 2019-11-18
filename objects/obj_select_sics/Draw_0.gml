@@ -1,4 +1,5 @@
 draw_self();
+
 if left_pressed = true
 if time2 == 0
 {

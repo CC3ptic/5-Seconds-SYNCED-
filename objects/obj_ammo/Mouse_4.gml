@@ -1,0 +1,1 @@
+instance_create_layer(1485,1030,"Instances",obj_bullet);

@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "098d6ceb-4e9c-4f22-8d4b-f719b9cc46ab",
+            "Value": {
+                "id": "57e9a955-f0f9-4009-9d52-9e4f991a362a",
+                "resourcePath": "rooms\\room_firing_SICS_snap\\room_firing_SICS_snap.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0a4280e1-90fa-4a65-a276-3a66d03257bf",
             "Value": {
                 "id": "dbcac772-bfc4-4e42-a0c2-bfc76ca12107",
@@ -583,6 +591,14 @@
             }
         },
         {
+            "Key": "60541a40-50fa-4b45-a8ed-e8228ae8d73f",
+            "Value": {
+                "id": "41b7eebe-57ff-467b-b45c-55fcd43b2a00",
+                "resourcePath": "objects\\obj_character_frank\\obj_character_frank.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6074cbb9-15a8-4108-9f3d-cf4f6bf2fd4e",
             "Value": {
                 "id": "e22f306e-bc2a-4c4e-b916-cf28b98c36b7",
@@ -823,6 +839,14 @@
             }
         },
         {
+            "Key": "904e08ef-a7f5-44aa-ab67-2e47605a14dd",
+            "Value": {
+                "id": "107a6cb3-0684-4db0-9464-a1c9f9344d5e",
+                "resourcePath": "rooms\\room_character_selection\\room_character_selection.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "90cf032f-304b-48f8-8cb5-8108810156ed",
             "Value": {
                 "id": "79b5d5db-a5fa-4cae-9d53-c3d4454c0d4e",
@@ -836,6 +860,14 @@
                 "id": "373ef518-cd7f-443a-a399-0eb643fee3cd",
                 "resourcePath": "views\/92a74b44-8c86-4456-82a1-84ecf64566bd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "92ce7396-946b-4828-b3e0-9d4155b34e13",
+            "Value": {
+                "id": "a3b6a929-e609-4a21-a665-fbc2e67a7eaa",
+                "resourcePath": "objects\\obj_character_main\\obj_character_main.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -964,6 +996,14 @@
                 "id": "7b7950a5-344a-407c-8c25-d6c978ee467c",
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ac1f5d89-57a2-49c9-a8c2-eb4bcfb9b973",
+            "Value": {
+                "id": "ca4a3c78-162b-4ee9-916e-cdab8bc44ae6",
+                "resourcePath": "sprites\\spr_character_selection\\spr_character_selection.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1143,6 +1183,14 @@
             }
         },
         {
+            "Key": "c4711307-622d-4bc0-873a-b6efc9000d65",
+            "Value": {
+                "id": "f27666a2-942d-454e-9fbc-ee0446147e16",
+                "resourcePath": "objects\\obj_ammo\\obj_ammo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c63cfbb8-8ab9-4ebe-a90c-4fbf0e69798b",
             "Value": {
                 "id": "e7f215ee-42af-4fa9-b31d-81fc2876b045",
@@ -1276,6 +1324,14 @@
                 "id": "e18bb586-0618-4f44-a4c7-b9f4e04174ae",
                 "resourcePath": "sprites\/spr_select\/spr_select.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e2f45fc9-c3ef-482f-b598-aa19b757c219",
+            "Value": {
+                "id": "223dfa19-088f-4547-8f72-95749c3bb13b",
+                "resourcePath": "fonts\\fnt_character\\fnt_character.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -1444,6 +1500,14 @@
                 "id": "221306b0-f83e-4d6e-80d9-cf9ff7c2d1dd",
                 "resourcePath": "sprites\\spr_mainmenu_button\\spr_mainmenu_button.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fa39a5c4-f4f5-4bfd-870c-685515fa2249",
+            "Value": {
+                "id": "dd61b949-c87a-447d-96fe-73c3b33ea352",
+                "resourcePath": "objects\\obj_target_snap\\obj_target_snap.yy",
+                "resourceType": "GMObject"
             }
         },
         {
