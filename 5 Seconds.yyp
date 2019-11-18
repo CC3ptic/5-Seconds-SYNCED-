@@ -615,6 +615,14 @@
             }
         },
         {
+            "Key": "68dbb9f9-6873-4a36-8cf8-1ad312d1319f",
+            "Value": {
+                "id": "5f37d334-4a04-482e-ba8e-d44352ca7305",
+                "resourcePath": "sprites\\spr_ammo\\spr_ammo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6c36380c-6806-4764-8306-b824b54d8a92",
             "Value": {
                 "id": "f26cdc40-14f8-43a5-ae06-bc9128a3324c",

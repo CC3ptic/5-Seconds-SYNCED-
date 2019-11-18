@@ -5,3 +5,5 @@ global.score2=0;
 global.centre=0;
 
 global.x_offset = 0;
+global.tutorial=false;
+
