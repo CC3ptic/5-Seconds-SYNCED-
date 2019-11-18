@@ -8,7 +8,7 @@ if global.can_shoot=true
 	global.can_shoot=false
 	alarm[1]=room_speed
 	alarm[0]=room_speed
-	audio_play_sound(snd_gunshot);
+	audio_play_sound(snd_gunshot,1,false);
 	global.shot+=1;
 	if score<4
 	{

@@ -1,5 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-global.slide=true;
-global.slidex=false;
-global.bulletin = false
+global.frank=true
+room_goto(room_reload);

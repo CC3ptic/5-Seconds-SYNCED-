@@ -1,6 +1,6 @@
 if time = 0
 {
-	room_goto(room_map_selection);
+	room_goto(room_character_selection);
 }
 
 if time = 1 and shot = false
