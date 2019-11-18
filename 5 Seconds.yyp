@@ -767,6 +767,14 @@
             }
         },
         {
+            "Key": "81a1fddd-3f6f-4c99-b9d4-4bfe769d0a12",
+            "Value": {
+                "id": "4272f98e-40b7-4262-9262-ce949a7513db",
+                "resourcePath": "objects\\obj_tutorial\\obj_tutorial.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "81e213c8-6d9c-445d-9e4b-23ce41a6ae77",
             "Value": {
                 "id": "f1550954-2b99-4770-a5f7-00b4ce41ed2b",
@@ -1042,7 +1050,7 @@
             "Key": "b197bee4-1d4e-4c23-86af-112ccaf01f58",
             "Value": {
                 "id": "c634f1ef-635a-4d16-a40b-fbb423cf497a",
-                "resourcePath": "objects\/obj_malafar_competition\/obj_malafar_competition.yy",
+                "resourcePath": "objects\\obj_character_selection\\obj_character_selection.yy",
                 "resourceType": "GMObject"
             }
         },

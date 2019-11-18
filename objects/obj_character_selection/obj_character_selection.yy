@@ -2,18 +2,9 @@
     "id": "b197bee4-1d4e-4c23-86af-112ccaf01f58",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_malafar_competition",
+    "name": "obj_character_selection",
     "eventList": [
-        {
-            "id": "eae28976-6805-4a81-bf29-583c2e7d0530",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "b197bee4-1d4e-4c23-86af-112ccaf01f58"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7400d834-791d-409e-b6d4-5454487c14ca",
+    "spriteId": "ac1f5d89-57a2-49c9-a8c2-eb4bcfb9b973",
     "visible": true
 }
