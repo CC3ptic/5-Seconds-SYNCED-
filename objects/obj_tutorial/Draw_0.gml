@@ -18,3 +18,4 @@ if obj_bolt.y = 600 and obj_bolt.x <855
 	draw_sprite(spr_mouse_left,counter,1150,650);
 	draw_text(1200,625,"Hold down left mouse and drag left the bolt");
 }
+
