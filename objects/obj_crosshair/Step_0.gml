@@ -34,14 +34,24 @@ if x>1920-369
 	x-=2;
 }
 
-if global.breath = true
+if global.breath = true and global.character = 1
 {
 	speed=1.3;
 }
-else 
+else if global.breath = false and global.character = 1
 {
 	speed=2;
 }
+
+if global.breath = true and global.character = 2
+{
+	speed=0.65;
+}
+else if global.breath = false and global.character = 2
+{
+	speed=2;
+}
+
 
 
 if global.recoil=true
@@ -49,11 +59,20 @@ if global.recoil=true
 	y-=7
 }
 
-if global.breath=true 
+if global.breath=true and global.character = 1
 {
 	obj_breath_bar.image_xscale-=0.01;
 }
-else 
+else if global.breath = false and global.character = 1
+{
+	obj_breath_bar.image_xscale+=0.01;
+}
+
+if global.breath=true and global.character = 2
+{
+	obj_breath_bar.image_xscale-=0.005;
+}
+else if global.breath = false and global.character = 2
 {
 	obj_breath_bar.image_xscale+=0.01;
 }

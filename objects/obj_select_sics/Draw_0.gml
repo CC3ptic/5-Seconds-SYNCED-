@@ -3,16 +3,16 @@ draw_self();
 if left_pressed = true
 if time2 == 0
 {
-a = clamp(a + (fade1 * 0.05),0,1);
+a = clamp(a + (fade * 0.05),0,1);
 }
 
 if (a == 1)
 {
 	room_goto_next();
-	fade1 = -1;
+	fade = -1;
 }
 
-if (a == 0) && (fade1 == -1)
+if (a == 0) && (fade == -1)
 {
 	instance_destroy();
 }

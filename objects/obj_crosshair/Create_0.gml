@@ -49,7 +49,7 @@ else if global.sicslevel= 5
 }
 else if global.sicslevel= 6
 {
-	global.snap=true
+	global.snap = true
 }
 
 
@@ -58,7 +58,7 @@ alarm[3]=room_speed*30
 
 
 	var wind = irandom_range(-30,30);
-	global.wind+=wind;
+	global.wind+= wind;
 
 
 x=irandom_range(350,1500);
