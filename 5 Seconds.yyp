@@ -551,6 +551,14 @@
             }
         },
         {
+            "Key": "4f8a008d-411a-4567-8937-18319d8420f9",
+            "Value": {
+                "id": "c2d4dac0-4f6c-4384-9f9e-4d45fd6a2399",
+                "resourcePath": "objects\\obj_snap_timer1\\obj_snap_timer1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "54827a0a-149a-4d1f-a327-2dc3e42aa42f",
             "Value": {
                 "id": "4fbc1752-e5d5-4750-be30-e68fa702d7ab",
