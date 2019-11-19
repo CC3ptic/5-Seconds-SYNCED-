@@ -1,5 +1,7 @@
 draw_self();
 
+draw_set_font(fnt_cleaning);
+
 if global.rodin = true
 {
 	draw_set_colour(c_red);
@@ -10,33 +12,33 @@ if global.patchready = true and global.rodin = true and global.patched = true
 {
 	draw_set_colour(c_black);
 	draw_sprite(spr_mouse_right,counter,1151,519);
-	draw_text(1051,399,"Press to take out Cleaning Rod");
+	draw_text(1151,399,"Press to take out Cleaning Rod");
 }
 
 if global.cleaningrod = 1 and global.rodin = false and global.patchready = false
 {
 	draw_set_colour(c_black);
 	draw_sprite(spr_mouse_left,counter,1151,519);
-	draw_text(1051,399,"Press to put in Cleaning Rod");
+	draw_text(1151,399,"Press to put in Cleaning Rod");
 }
 
-if global.cleaningrod = 1 and global.patchready = true
+if global.cleaningrod = 1 and global.rodin = true and global.patchready = true
 {
 	draw_set_colour(c_black);
 	draw_sprite(spr_mouse_right,counter,1151,519);
-	draw_text(1051,399,"Press to take out Cleaning Rod");
+	draw_text(1151,399,"Press to take out Cleaning Rod");
 }
 
 if global.cleaningrod = 2 and global.patchready = true and global.rodin = false
 {
 	draw_set_colour(c_black);
 	draw_sprite(spr_mouse_left,counter,1151,519);
-	draw_text(1051,399,"Press to put in Cleaning Rod");
+	draw_text(1151,399,"Press to put in Cleaning Rod");
 }
 
 if global.cleaningrod = 2 and global.rodin = true and global.patched = true
 {
 	draw_set_colour(c_black);
 	draw_sprite(spr_mouse_right,counter,1151,519);
-	draw_text(1051,399,"Press to take out Cleaning Rod");
+	draw_text(1151,399,"Press to take out Cleaning Rod");
 }
