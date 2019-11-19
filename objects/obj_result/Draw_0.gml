@@ -3,7 +3,7 @@
 draw_set_color(c_black)
 draw_set_halign(fa_middle)
 draw_text(room_width/2,room_height/2,"Your Total:" +string(global.score2) +string(global.centre));
-draw_text(room_width/3,room_height/2,"Your Average:" +string(global.score2/global.shot));
+draw_text(room_width/2,room_height/2 + 80,"Your Average:" +string(global.score2/global.shot));
 draw_set_font(fnt_stats);
 
 if global.score2 > 85 
