@@ -1,5 +1,5 @@
 left_pressed = true
-if my_id >= 3
+if global.sicslevel=my_id
 {
 room_goto(room_cleaning_1);
 }

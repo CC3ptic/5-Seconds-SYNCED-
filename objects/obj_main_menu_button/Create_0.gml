@@ -3,6 +3,7 @@ time = 9000;
 alarm[0] = room_speed
 shot = false
 mainbuttonpressed = false
+buttonpressed = false
 
 a = 0;
 fade1 = 1;
