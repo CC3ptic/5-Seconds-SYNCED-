@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_snap_timer_create",
     "eventList": [
-        
+        {
+            "id": "e3fe76cc-c250-419e-b390-29f95b1b9e5f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "e48b084b-fc4f-4137-a08c-ff8f2079665d"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

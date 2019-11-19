@@ -13,7 +13,7 @@ if global.snap = true and global.snapshown = false and global.can_shoot = true
 
 if global.can_shoot=true
 {
-	global.switch=true
+	global.switched=true
 	global.recoil=true;
 	alarm[2]=room_speed/5;
 	instance_create_layer(x+232+global.x_offset+global.wind,y+232,"Target",obj_34);
