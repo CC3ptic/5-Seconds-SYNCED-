@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "1f626d12-1a76-4a3e-8081-f27eed6a33c6",
+            "Value": {
+                "id": "8a980bbc-ffcb-4915-bb70-c771d3e2d50d",
+                "resourcePath": "sounds\\snd_winding_click\\snd_winding_click.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "23fbf550-8471-4dfc-8904-0792d13665ee",
             "Value": {
                 "id": "958baab5-a735-4b4c-9752-e39b76122df2",
@@ -527,6 +535,14 @@
             }
         },
         {
+            "Key": "54d760ca-86d9-4d7e-a266-4de70bf129a1",
+            "Value": {
+                "id": "1c51b538-910b-40fe-99cf-8dc428c2d016",
+                "resourcePath": "objects\\obj_shotinfo\\obj_shotinfo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "54f59e0b-07dd-4e1f-a9a6-506ed41b520f",
             "Value": {
                 "id": "6215b0c8-da58-4547-91da-14e879d16869",
@@ -700,6 +716,14 @@
                 "id": "f34e83a8-4095-4c5a-bc66-3a0cf43a2990",
                 "resourcePath": "rooms\/room_sics_stage_selection\/room_sics_stage_selection.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "76f95131-a240-4473-acd4-66b5322c41aa",
+            "Value": {
+                "id": "b1796240-d758-4dfe-937d-4e27535517c1",
+                "resourcePath": "sounds\\snd_rain\\snd_rain.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1167,6 +1191,14 @@
             }
         },
         {
+            "Key": "c276f439-0c33-4ee2-8ebd-54fdc3e945aa",
+            "Value": {
+                "id": "53e53013-99b4-42d5-ab5e-b7a8b5af0f04",
+                "resourcePath": "sprites\\spr_smallbore_rifle_angled\\spr_smallbore_rifle_angled.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c287c432-dcbf-4541-ae1c-424eb6bbd749",
             "Value": {
                 "id": "051ef334-301c-4230-90bd-358ed0bb659b",
@@ -1556,6 +1588,14 @@
                 "id": "b08d7d63-e004-4f8d-bfc5-e5565e94f245",
                 "resourcePath": "rooms\/room_firing_SICS\/room_firing_SICS.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "fd9ca6f6-cc40-4bd0-8256-ce36285c7182",
+            "Value": {
+                "id": "ffdfbbde-308c-42ad-a2b9-239e35126808",
+                "resourcePath": "sprites\\spr_background\\spr_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

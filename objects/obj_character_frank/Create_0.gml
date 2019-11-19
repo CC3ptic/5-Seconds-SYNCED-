@@ -1,1 +1,2 @@
-global.character = 2
+character =2 
+global.frank=false

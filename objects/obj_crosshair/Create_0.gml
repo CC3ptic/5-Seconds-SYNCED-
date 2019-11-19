@@ -1,3 +1,5 @@
+global.snap = false
+
 
 global.recoil=false
 global.mouse=false;

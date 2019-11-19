@@ -1,2 +1,2 @@
-global.snapshown = true
-time = 0
+global.snapshown = false
+global.snaptime = 5

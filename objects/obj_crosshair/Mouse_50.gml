@@ -1,4 +1,12 @@
 /// @description Insert description here
+if global.snap = true and global.snapshown = false
+{
+	room_goto(room_reload)
+	global.shot +=1;
+}
+
+
+
 
 if global.can_shoot=true
 {
@@ -8,7 +16,7 @@ if global.can_shoot=true
 	global.can_shoot=false
 	alarm[1]=room_speed
 	alarm[0]=room_speed
-	audio_play_sound(snd_gunshot,2,10);
+	audio_play_sound(snd_gunshot,1,false);
 	global.shot+=1;
 	if score<4
 	{

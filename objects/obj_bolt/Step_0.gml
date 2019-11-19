@@ -41,7 +41,14 @@ if global.bulletin=true and x=855
 	global.slidex=false
 }
 
-if global.bulletin=true and y=600
+if global.bulletin=true and y=600 and global.sicslevel = 6
 {
-	room_goto(room_firing_SICS);
+	room_goto(room_firing_SICS_snap);
 }
+
+else 
+if global.bulletin=true and y=600 
+{
+	room_goto(room_firing_SICS)
+}
+

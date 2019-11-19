@@ -23,22 +23,6 @@ if global.mouse=true
 x=random_range(x-0.5,x+0.5);
 y=random_range(y-0.5,y+0.5);
 
-if global.breath=true and global.character = 1
-{
-	speed=1;
-	x=x;
-	y=y;
-}
-if global.breath=true and global.character = 2
-{
-	speed = 0.75;
-	x=x;
-	y=y;
-}
-else
-{
-	speed=2;
-}
 
 if y+84<0
 {
@@ -50,23 +34,33 @@ if x>1920-369
 	x-=2;
 }
 
+if global.breath = true
+{
+	speed=1.3;
+}
+else 
+{
+	speed=2;
+}
+
+
 if global.recoil=true
 {
 	y-=7
 }
 
-if global.breath=true and global.character = 1
+if global.breath=true 
 {
 	obj_breath_bar.image_xscale-=0.01;
-}
-if global.breath = true and global.character = 2
-{
-	obj_breath_bar.image_xscale -=0.0075;
 }
 else 
 {
 	obj_breath_bar.image_xscale+=0.01;
 }
+
+
+
+
 
 if obj_breath_bar.image_xscale=0
 {

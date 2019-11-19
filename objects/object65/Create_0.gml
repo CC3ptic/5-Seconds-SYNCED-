@@ -1,0 +1,1 @@
+global.shot = 0

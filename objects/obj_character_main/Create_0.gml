@@ -1,1 +1,1 @@
-global.character = 1
+character =1 
