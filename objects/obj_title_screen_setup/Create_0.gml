@@ -1,2 +1,3 @@
 
-audio_play_sound(snd_titlescreen,1,2000);
+	audio_play_sound(snd_titlescreen,1,true);
+

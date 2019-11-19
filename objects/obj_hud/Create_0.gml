@@ -1,5 +1,5 @@
 /// @description Insert description here
-
+global.total=true
 score2=0;
 global.score2=0;
 global.centre=0;

@@ -1,1 +1,1 @@
-
+global.total=false

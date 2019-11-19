@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_hud_side",
     "eventList": [
-        
+        {
+            "id": "6f0eada6-cfcd-498c-909d-4fbd746cd13d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "43bdbd2e-f83e-42f0-938a-4c3ea3e07f9f"
+        },
+        {
+            "id": "4a77c60b-0cfd-46dc-94be-c08ae6b09f47",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "43bdbd2e-f83e-42f0-938a-4c3ea3e07f9f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

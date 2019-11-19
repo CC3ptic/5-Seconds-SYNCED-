@@ -10,7 +10,7 @@ my = mouse_y;
 global.breath=false;
 
 score=0;
-
+global.total=true
 global.can_shoot=false;
 
 alarm[0]=room_speed/3;
