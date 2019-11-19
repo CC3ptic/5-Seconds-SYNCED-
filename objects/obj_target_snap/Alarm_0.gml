@@ -1,2 +1,2 @@
 global.snaptime--;
-alarm[0]=room_speed;
+alarm[0]=room_speed

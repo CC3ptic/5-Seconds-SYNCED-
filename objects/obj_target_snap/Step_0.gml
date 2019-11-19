@@ -1,13 +1,22 @@
 
-if global.snaptime > 5
+
+if global.snaptime < 6
 {
-	image_index = spr_snap_target_side
 	global.snapshown = false
 }
 
 if global.snaptime < 0
 {
-	global.snaptime = 10
-	image_index = spr_snap_target
+	global.snaptime = 11
 	global.snapshown = true
+}
+
+if global.snapshown = true
+{
+	image_index = 1
+}
+
+if global.snapshown = false
+{
+	image_index = 2
 }

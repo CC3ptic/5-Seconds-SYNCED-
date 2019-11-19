@@ -1255,6 +1255,14 @@
             }
         },
         {
+            "Key": "c32a491d-29c0-4d4c-89f1-2154a1a0a6cd",
+            "Value": {
+                "id": "6b64aa46-2ac1-40b5-af1e-80a585a50313",
+                "resourcePath": "sprites\\spr_mainmenu_shooter_flipped\\spr_mainmenu_shooter_flipped.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c3bb180f-def4-4b45-8694-6518d6fe803e",
             "Value": {
                 "id": "86e35607-682d-48f5-b580-c754e78607c3",

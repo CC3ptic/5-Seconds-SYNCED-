@@ -19,10 +19,18 @@ if global.patchready = false
 
 
 
-if global.cleaningrodready = 1 and global.rodin = false
+if global.cleaningrodready = 1 and global.rodin = false and global.patchready = false
 {
 	draw_set_font(fnt_cleaning_big);
-	draw_text(1575,365, "Drag Brush / Jag onto Cleaning Rod");
+	draw_text(1575,365, "Rifle Needs to be Brushed!");
+	draw_text(1575,415, "Drag Brush onto Cleaning Rod");
+}
+
+if global.cleaningrodready = 1 and global.rodin = false and global.patchready = true
+{
+	draw_set_font(fnt_cleaning_big);
+	draw_text(1575,365, "Rifle is Ready for a Patch!");
+	draw_text(1575,415, "Drag Jag onto Cleaning Rod");
 }
 
 if global.cleaningrodready = 2 and global.rodin = false

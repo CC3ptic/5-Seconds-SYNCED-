@@ -1,9 +1,9 @@
-starttimer = true;
-if starttimer = true
+starttimer = true
+if starttimer = true and buttonpressed = false
 {
 	time =3;
 	time2 =3;
 	alarm[0] = room_speed
-	
+	buttonpressed = true
 }
 
