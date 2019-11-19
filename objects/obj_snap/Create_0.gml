@@ -5,7 +5,7 @@ image_speed=0;
 my_id=6
 if global.level<=my_id
 {
-	image_index=1;
+	image_index=0;
 }
 else
 {

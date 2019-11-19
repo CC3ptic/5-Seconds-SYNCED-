@@ -79,8 +79,6 @@ else if global.breath = false and global.character = 2
 
 
 
-
-
 if obj_breath_bar.image_xscale=0
 {
 	global.breath=false

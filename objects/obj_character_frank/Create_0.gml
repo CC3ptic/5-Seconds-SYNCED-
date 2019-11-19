@@ -1,4 +1,5 @@
 character =2 
+
 my_id = 6
 image_speed=0
 if global.sicslevel<=my_id
