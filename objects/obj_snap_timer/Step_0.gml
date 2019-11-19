@@ -13,13 +13,4 @@ if global.sicslevel=6
 		global.snapshown = true
 	}
 
-	if global.snapshown = true
-	{
-		obj_target_snap.image_index = 0
-	}
-
-	if global.snapshown = false
-	{
-		obj_target_snap.image_index = 1
-	}
 }

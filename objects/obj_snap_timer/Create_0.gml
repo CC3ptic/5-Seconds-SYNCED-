@@ -8,5 +8,4 @@ if global.sicslevel = 6
 	
 	alarm[0] = room_speed
 
-	obj_target_snap.image_index = 1
 }
