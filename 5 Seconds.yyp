@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "11e6be7e-8728-4f91-b651-43b6fd6f7c27",
+            "Value": {
+                "id": "1e1e143e-b638-4058-8dfc-6ee62a31d311",
+                "resourcePath": "objects\\obj_button_nextroom_cleaning\\obj_button_nextroom_cleaning.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1275931c-959d-4322-b00b-15c911735065",
             "Value": {
                 "id": "b82996da-ba27-4850-b9c0-9dcabc005b09",
@@ -263,6 +271,14 @@
             }
         },
         {
+            "Key": "1f082017-8199-4613-abc7-1efcf21766e7",
+            "Value": {
+                "id": "3e7b8fe4-061e-49e2-9759-d8f529cc8f15",
+                "resourcePath": "sprites\\spr_button_r\\spr_button_r.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1f626d12-1a76-4a3e-8081-f27eed6a33c6",
             "Value": {
                 "id": "8a980bbc-ffcb-4915-bb70-c771d3e2d50d",
@@ -308,6 +324,14 @@
                 "id": "0b81867a-8a1b-464f-9e60-42e712aeb0b1",
                 "resourcePath": "objects\/obj_cleaning_rod_jag\/obj_cleaning_rod_jag.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2a17eaf0-4dd6-4f43-bedd-1a7f9ee393a5",
+            "Value": {
+                "id": "4d9e37c2-fbe9-4f3d-9ec2-dd0bf7d716c8",
+                "resourcePath": "sprites\\spr_next_locked\\spr_next_locked.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -876,6 +900,14 @@
                 "id": "7c57afed-0245-426f-a37b-0e38c04f73e2",
                 "resourcePath": "objects\\obj_main_menu_button\\obj_main_menu_button.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8f6409a0-e7ad-45db-92b7-9274fef65a1d",
+            "Value": {
+                "id": "61be5c90-4e95-4b40-93d3-7993b0f64ec3",
+                "resourcePath": "fonts\\fnt_cleaning_big\\fnt_cleaning_big.yy",
+                "resourceType": "GMFont"
             }
         },
         {

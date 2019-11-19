@@ -5,4 +5,5 @@ if global.patchready = true
 	instance_create_layer(1505,196,"Instances",obj_brush);
 	global.rodin = false
 	global.cleaningrod = 0
+	global.cleaningrodready = 0
 }

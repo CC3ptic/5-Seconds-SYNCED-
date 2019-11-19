@@ -1,0 +1,1 @@
+global.cleaningrodready = 2

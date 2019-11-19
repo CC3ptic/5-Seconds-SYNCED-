@@ -12,8 +12,13 @@ if global.cleaningrod = 0
 	instance_destroy(obj_cleaning_rod_brush);
 	instance_destroy(obj_cleaning_rod_jag);
 	global.patchready = false
+	global.cleaningrodready = 0
+	global.brushes = 0
 	
 }
+
+
+
 if global.cleaningrod = 0 and global.patchready = true and global.rodin = false
 {
 	instance_destroy(obj_jag);
@@ -27,7 +32,7 @@ if global.cleaningrod = 0 and global.patchready = true and global.rodin = false
 	instance_destroy(obj_ripped_4b);
 	instance_destroy(obj_cleaning_rod_brush);
 	instance_destroy(obj_cleaning_rod_jag);
-		
+	global.cleaningrodready = 0	
 }
 
 if global.cleaningrod = 1
@@ -45,6 +50,7 @@ if global.cleaningrod = 1
 	global.cleaningrod = 0
 	global.rodin = false
 	global.patchready = false
+	global.cleaningrodready = 0
 }
 
 
@@ -63,4 +69,5 @@ if global.cleaningrod = 2
 	global.cleaningrod = 0
 	global.rodin = false
 	global.patchready = false
+	global.cleaningrodready = 0
 }
