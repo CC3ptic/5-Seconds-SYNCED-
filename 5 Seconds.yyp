@@ -1351,6 +1351,14 @@
             }
         },
         {
+            "Key": "d1e56a00-a4b6-49e3-8e5e-e1201267b822",
+            "Value": {
+                "id": "3202d194-9e1a-40e5-a518-966d3bd6dad5",
+                "resourcePath": "objects\\obj_snap_timer\\obj_snap_timer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d2fdb16f-995e-464c-b4e5-942a942153fd",
             "Value": {
                 "id": "1a147099-a0a5-4d10-9a17-ccdb182d0802",
@@ -1435,6 +1443,14 @@
             "Value": {
                 "id": "9ba88b35-9cf8-4a70-ad4e-4897b1f88cba",
                 "resourcePath": "objects\\obj_unlock\\obj_unlock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e48b084b-fc4f-4137-a08c-ff8f2079665d",
+            "Value": {
+                "id": "eab4a6e4-3bff-4ca0-8e44-becf267c7131",
+                "resourcePath": "objects\\obj_snap_timer_create\\obj_snap_timer_create.yy",
                 "resourceType": "GMObject"
             }
         },

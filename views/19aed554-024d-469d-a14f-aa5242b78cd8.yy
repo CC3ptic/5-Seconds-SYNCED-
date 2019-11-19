@@ -20,7 +20,9 @@
         "c4711307-622d-4bc0-873a-b6efc9000d65",
         "fa39a5c4-f4f5-4bfd-870c-685515fa2249",
         "43bdbd2e-f83e-42f0-938a-4c3ea3e07f9f",
-        "d2fdb16f-995e-464c-b4e5-942a942153fd"
+        "d2fdb16f-995e-464c-b4e5-942a942153fd",
+        "d1e56a00-a4b6-49e3-8e5e-e1201267b822",
+        "e48b084b-fc4f-4137-a08c-ff8f2079665d"
     ],
     "filterType": "GMObject",
     "folderName": "shooting",
