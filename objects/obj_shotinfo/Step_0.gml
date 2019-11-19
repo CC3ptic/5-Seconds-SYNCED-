@@ -1,5 +1,4 @@
 
-
 if global.shot=2
 {
 	global.can_shoot=false;
