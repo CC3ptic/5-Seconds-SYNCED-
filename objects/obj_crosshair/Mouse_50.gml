@@ -1,6 +1,9 @@
 /// @description Insert description here
-if global.snap = true and global.snapshown = false
+if global.snap = true and global.snapshown = false and global.can_shoot = true
 {
+	audio_play_sound(snd_gunshot,1,false);
+	global.recoil=true;
+	alarm[2]=room_speed/5;
 	room_goto(room_reload)
 	global.shot +=1;
 }
@@ -10,6 +13,7 @@ if global.snap = true and global.snapshown = false
 
 if global.can_shoot=true
 {
+	global.switch=true
 	global.recoil=true;
 	alarm[2]=room_speed/5;
 	instance_create_layer(x+232+global.x_offset+global.wind,y+232,"Target",obj_34);

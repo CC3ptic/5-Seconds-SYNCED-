@@ -1,5 +1,5 @@
 global.snap = false
-
+global.switch=false
 
 global.recoil=false
 global.mouse=false;
