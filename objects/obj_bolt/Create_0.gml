@@ -3,3 +3,4 @@
 global.slide=true;
 global.slidex=false;
 global.bulletin = false
+drag=noone;

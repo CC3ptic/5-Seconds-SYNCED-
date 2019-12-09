@@ -50,6 +50,8 @@ else if global.sicslevel= 5
 else if global.sicslevel= 6
 {
 	global.snap = true
+	global.wind=20
+	global.rain=false
 }
 
 

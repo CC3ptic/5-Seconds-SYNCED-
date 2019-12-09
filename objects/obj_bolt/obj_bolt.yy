@@ -5,16 +5,6 @@
     "name": "obj_bolt",
     "eventList": [
         {
-            "id": "fb8364ee-774c-4281-a398-401dd04ac9bd",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 6,
-            "m_owner": "3b227d6b-8986-4e27-8a4a-95eeea24bb09"
-        },
-        {
             "id": "897ebbfd-91ef-4f11-b7bb-fca595d146c9",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -42,6 +32,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "3b227d6b-8986-4e27-8a4a-95eeea24bb09"
+        },
+        {
+            "id": "afb27d93-01b1-4eb4-a700-cc45bd7f1f32",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
             "m_owner": "3b227d6b-8986-4e27-8a4a-95eeea24bb09"
         }
     ],

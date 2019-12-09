@@ -3,7 +3,7 @@
 
 
 
-if global.shot>2
+if global.shot>9
 {
 	global.can_shoot=false;
 	room_goto(room_result);
