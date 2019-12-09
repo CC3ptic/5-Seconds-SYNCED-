@@ -10,7 +10,7 @@ draw_text(205, room_height/2, "Wind " +string(global.wind) + "km/h");
 
 if global.sicslevel = 1 and global.shot = 0
 {
-	draw_text(room_width/2, 70, "This is your shooting screen. Press left click to fire a shot! You want to aim at the middle of the target.");
+	draw_text(room_width/2, 70, "This is your shooting screen. Press left click to fire! You want to aim at the middle of the target.");
 }
 
 if global.sicslevel = 1 and global.shot = 1

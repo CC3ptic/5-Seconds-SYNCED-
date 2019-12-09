@@ -12,4 +12,5 @@ if global.shot>9
 
 
 
+
 draw_text(room_width/3,room_height/3,global.score2);
